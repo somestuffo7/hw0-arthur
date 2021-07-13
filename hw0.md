@@ -9,7 +9,7 @@ I'd like to teach for Attack-Defense CTFs rather than jeopardy, since I enjoy re
 
 #### For starters, how about name, grade, and experience so I can get a handle on things.
 ```
-*ANSWER HERE*
+*Arthur Perng, 10th(going to 11th), *
 ```
 ### Let's try some quick practical knowledge.
 **FEEL FREE TO USE ALL RESOURCES AT YOUR DISPOSAL!**
@@ -117,3 +117,4 @@ Let's fix your boss's mistake!
 	<br>
 	The passwords start with a string they all have in common: 'rickyCorpPassword' and end with a random unique string. This means we want to use a wildcard in our search.
 </details>
+What does the S stand for in RSA?
